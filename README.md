@@ -29,6 +29,9 @@
       <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt.js-90DC82?style=flat-square&logo=nuxt&logoColor=black">   
     </td>
   </tr>
+   <tr>
+    <td colspan="2"><hr style="visibility: hidden; margin: 0; padding: 0;" /></td>
+  </tr>
   <tr>
     <!-- БЛОК СТИЛИ -->
     <td valign="top" width="50%">
